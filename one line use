@@ -1,0 +1,19 @@
+DEVICE TYPE    DEVICE NAME      ONLINE USE                                             WIRED/WIRELESS
+
+INPUT          Keyboard         Used to type text and input commands into pc           Both available   
+INPUT          Mouse            Used to point,click,navigate on screen                 Both available
+INPUT          Scanner          Convert physical documents into digital files          Mostly wired
+INPUT          Microphone       Captures audio/voice input into the computer           Both available
+INPUT          Web camera       Captures live video inputs for calls or recordings     Mostly wired 
+
+OUTPUT         Monitor          Display visual output like image and text              Wired
+OUTPUT         Printer          Paints digital documents into physical paper           Both available
+OUTPUT         Speaker          Plays audio output like music and system sound         Both available
+OUTPUT         Headphones       Allows private listening of computer audio             Both available
+OUTPUT         Projector        Projects computer visuals into large screen            Mostly wired
+
+STORAGE        HDD              Internal drive that stores the operating system        Wired(internal)
+STORAGE        USB              Portable drive used to transfer small files            Wired(plug-in)
+STORAGE        External SDD     High speed portable storage for large backups          Wired
+STORAGE        Memory card(SD)  Small storage chip used in cameras and phones          Wired(inserted)
+STORAGE        CD/DVD           Optical disc used to store media or software           Wireless

@@ -1,0 +1,6 @@
+
+STORAGE        HDD              Internal drive that stores the operating system        Wired(internal)
+STORAGE        USB              Portable drive used to transfer small files            Wired(plug-in)
+STORAGE        External SDD     High speed portable storage for large backups          Wired
+STORAGE        Memory card(SD)  Small storage chip used in cameras and phones          Wired(inserted)
+STORAGE        CD/DVD           Optical disc used to store media or software           Wireless
